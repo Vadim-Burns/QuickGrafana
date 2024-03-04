@@ -5,9 +5,11 @@ Quick start to grafana server monitoring!
 ## What you get?
 
 - Ready to use grafana node exporter dashboard
+
 TODO: add dashboard image
 
 - Ready to use dozzle for checking docker logs
+
 TODO: add dozzle image
 
 
@@ -17,7 +19,7 @@ TODO: add dozzle image
 
 ## How-to
 
-1. Download this repository `git clone ...`
+1. Download this repository `git clone https://github.com/Vadim-Burns/QuickGrafana.git`
 2. Start services `docker-compose up -d`
 3. Import node-exporter [dashboard](https://grafana.com/grafana/dashboards/1860-node-exporter-full/)
 3. (Optional) Open prometheus to network using nginx
